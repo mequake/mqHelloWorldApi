@@ -1,0 +1,11 @@
+{
+  "name": "mqhelloworldapi",
+  "version": "1.0.0",
+  "description": "hello world api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "jmw",
+  "license": "ISC"
+}
